@@ -3,7 +3,7 @@
  * ------------
  */
 .skin-purple .main-header .navbar {
-  background-color: #605ca8;
+  background-color: #3c8dbc;
 }
 .skin-purple .main-header .navbar .nav > li > a {
   color: #ffffff;
@@ -51,7 +51,7 @@
   background-color: #545096;
 }
 .skin-purple .main-header li.user-header {
-  background-color: #605ca8;
+  background-color: #3c8dbc;
 }
 .skin-purple .content-header {
   background: transparent;
@@ -79,7 +79,7 @@
   background: #1e282c;
 }
 .skin-purple .sidebar-menu > li.active > a {
-  border-left-color: #605ca8;
+  border-left-color: #3c8dbc;
 }
 .skin-purple .sidebar-menu > li > .treeview-menu {
   margin: 0 1px;
